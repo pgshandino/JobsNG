@@ -1,2 +1,5 @@
 # Ignore jupyter temp checkpoint file
 /.ipynb_checkpoints
+
+.env
+
